@@ -13,7 +13,7 @@
 	<name>cadpessoas_xico</name>
 	<description>Cadastro de Pessoas - PWeb 2021.2</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
